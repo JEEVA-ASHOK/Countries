@@ -146,8 +146,7 @@ Contributions are welcome!
 ## 👨‍💻 Author
 
 **Ashok**
-
-GitHub: https://github.com/your-github-username
+https://github.com/JEEVA-ASHOK/Countries.git
 
 
 
